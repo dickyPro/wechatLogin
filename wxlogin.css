@@ -1,4 +1,4 @@
 .impowerBox .qrcode {width: 180px; margin-top: 15px; border: 3px solid red;}
-.impowerBox .title {display: none;}
+.impowerBox .title {display: block;}
 .impowerBox .info {width: 200px;}
 .impowerBox .status {text-align: center;}
